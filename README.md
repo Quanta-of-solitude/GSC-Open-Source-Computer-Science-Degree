@@ -11,7 +11,7 @@
 ### Computer Science Basics
 ### Note:- 
 #### 1. All the below basic skills are required .
-#### 2. It will take 3-6 Months to learn this skills depends on your efforts and time given to the course.
+#### 2. It will take 3-6 Months to learn these skills depends on your efforts and time given to the course.
 #### 3. If you know any of the skills already then you can still learn the rest of it.
 #### 4. If you think i'm missing any of the skills please add it and make a pull request
 Subjects | Resource | Duration | Effort | Frequency | Prerequisites | Free Udemy Course|
@@ -28,7 +28,7 @@ Linux | [Videos](https://www.youtube.com/watch?v=v_1zB2WNN14) [Books](https://dr
 
 # Android/IOS Developer
 ### Note:- 
-#### 1. Learn Java and xml first Kotlin is not compulsary for Android Developement.
+#### 1. Learn Java and xml first Kotlin is not compulsory for Android Developement.
 #### 2. Learn Flutter & Drat for both Android as well as IOS.
 #### 3. It will take 8-10 Months to learn this skills depends on your efforts and time given to the course.
 #### 4. If you know any of the skills already then you can still learn the rest of it.
@@ -46,8 +46,8 @@ Dart | [Videos](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q) [Books](https://dri
 
 # Full Stack Developer
 ### Note:- 
-#### 1. Learn HTML/CSS and Javascript first Node.js is not compulsary for Full Stack Developer.
-#### 2. It will take 12-16 Months to learn this skills depends on your efforts and time given to the course.
+#### 1. Learn HTML/CSS and Javascript first Node.js is not compulsory for Full Stack Developer.
+#### 2. It will take 12-16 Months to learn these skills depends on your efforts and time given to the course.
 #### 3. If you know any of the skills already then you can still learn the rest of it.
 #### 4. If you think i'm missing any of the skills please add it and make a pull request
 Subjects | Resource | Duration | Effort | Frequency | Prerequisites | Free Udemy Course|
@@ -63,7 +63,7 @@ Git | [Videos](https://www.youtube.com/watch?v=xuB1Id2Wxak) [Books](https://driv
 ### Note:- 
 #### 1. Learn all the basics of Python and Advance Python concepts like OOP etc.
 #### 2. Learn Flask , Django, Cherrypy.
-#### 3. It will take 6-8 Months to learn this skills depends on your efforts and time given to the course.
+#### 3. It will take 6-8 Months to learn these skills depends on your efforts and time given to the course.
 #### 4. If you know any of the skills already then you can still learn the rest of it.
 #### 5. If you think i'm missing any of the skills please add it and make a pull request
 Subjects | Resource | Duration | Effort | Frequency | Prerequisites | Free Udemy Course|
@@ -106,7 +106,7 @@ kubernetes| [Videos](https://www.youtube.com/watch?v=F-p_7XaEC84) [Books](https:
 4. Network Enginner
 5. Many More....
 
-## If Any Qurey Contact:-
+## If Any Query Contact:-
 
 [Gmail](https://arbazkhan4712.github.io/Contact)
 
